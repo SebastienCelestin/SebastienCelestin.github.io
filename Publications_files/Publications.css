@@ -1,0 +1,667 @@
+.style {
+    padding: 4px;
+}
+.paragraph_style {
+    color: #463c3c;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_1 {
+    color: #463c3c;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_1 {
+    font-family: 'Arial-ItalicMT', 'Arial', 'Arial Italic', sans-serif;
+    font-style: italic;
+}
+.style_2 {
+    font-family: 'Arial-BoldMT', 'Arial', 'Arial Bold', sans-serif;
+    font-weight: bold;
+}
+.style_External_630_50 {
+    position: relative;
+}
+.style_3 {
+    font-size: 15px;
+    line-height: 19px;
+}
+.paragraph_style_2 {
+    color: #463c3c;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_3 {
+    color: #463c3c;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_4 {
+    color: #463c3c;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: #ffffff;
+    opacity: 1.00;
+}
+.Body {
+    color: #463c3c;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Free_Form {
+    color: #463c3c;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Header {
+    color: #969696;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 42px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Normal {
+    padding: 4px;
+}
+.Normal_External_630_50 {
+    position: relative;
+}
+.Title {
+    color: #463c3c;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_generic_header_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_698_2765 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: #463c3c;
+    text-decoration: underline;
+}
+a:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class1 {
+    color: #0000ff;
+}
+a.class1:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class1:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class10 {
+    color: #0000ff;
+}
+a.class10:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class10:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class11 {
+    color: #0000ff;
+}
+a.class11:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class11:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class12 {
+    color: #0000ff;
+}
+a.class12:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class12:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class13 {
+    color: #0000ff;
+}
+a.class13:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class13:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class14 {
+    color: #0000ff;
+}
+a.class14:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class14:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class15 {
+    color: #0000ff;
+}
+a.class15:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class15:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class16 {
+    color: #0000ff;
+}
+a.class16:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class16:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class17 {
+    color: #0000ff;
+}
+a.class17:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class17:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class18 {
+    color: #0000ff;
+}
+a.class18:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class18:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class19 {
+    color: #0000ff;
+}
+a.class19:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class19:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class2 {
+    color: #0000ff;
+}
+a.class2:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class2:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class20 {
+    color: #0000ff;
+}
+a.class20:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class20:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class21 {
+    color: #0000ff;
+}
+a.class21:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class21:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class22 {
+    color: #0000ff;
+}
+a.class22:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class22:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class23 {
+    color: #0000ff;
+}
+a.class23:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class23:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class24 {
+    color: #0000ff;
+}
+a.class24:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class24:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class25 {
+    color: #0000ff;
+}
+a.class25:visited {
+    color: #7f007f;
+}
+a.class25:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class26 {
+    color: #0000ff;
+}
+a.class26:visited {
+    color: #7f007f;
+}
+a.class26:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class27 {
+    color: #0000ff;
+}
+a.class27:visited {
+    color: #7f007f;
+}
+a.class27:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class28 {
+    color: #0000ff;
+}
+a.class28:visited {
+    color: #7f007f;
+}
+a.class28:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class29 {
+    color: #0000ff;
+}
+a.class29:visited {
+    color: #7f007f;
+}
+a.class29:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class3 {
+    color: #0000ff;
+}
+a.class3:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class3:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class30 {
+    color: #0000ff;
+}
+a.class30:visited {
+    color: #7f007f;
+}
+a.class30:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class31 {
+    color: #0000ff;
+}
+a.class31:visited {
+    color: #7f007f;
+}
+a.class31:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class32 {
+    color: #0000ff;
+}
+a.class32:visited {
+    color: #7f007f;
+}
+a.class32:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class33 {
+    color: #0000ff;
+}
+a.class33:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class33:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class4 {
+    color: #0000ff;
+}
+a.class4:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class4:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class5 {
+    color: #0000ff;
+}
+a.class5:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class5:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class6 {
+    color: #0000ff;
+}
+a.class6:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class6:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class7 {
+    color: #0000ff;
+}
+a.class7:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class7:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class8 {
+    color: #0000ff;
+}
+a.class8:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class8:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a.class9 {
+    color: #0000ff;
+}
+a.class9:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+a.class9:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+ol  { 
+      padding:0;
+      margin:0;
+      text-indent:0;
+      list-style-type:none ;
+      list-style-image:none
+    }
+.Bullet { 
+          text-decoration:none ;
+          text-transform:none ;
+          border: none;          
+        }
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: #666666;
+    text-decoration: underline;
+}
+#widget0 a {
+    color: #463c3c;
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}

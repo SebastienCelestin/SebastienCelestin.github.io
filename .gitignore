@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+._*
+
+# Working files not meant for the public site
+Claude outputs/
+_old_site_backup/
